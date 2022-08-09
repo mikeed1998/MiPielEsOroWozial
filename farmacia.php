@@ -25,7 +25,7 @@
         }
     </style>
 </head>
-<body background="images/mercaBella_22.png" style="background-repeat: no-repeat;">
+<body background="" style="background-repeat: no-repeat;">
 	<header>
 		<div class="mt-3 container">
 			<div class="row">
@@ -136,7 +136,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row mt-2 mb-2">
+            <div class="row mt-2 mb-2 background-image: url('images/Contacto_03.png')">
                 <div class="col">
                     <p class="display-3 text-center">F A R M A C I A</p>
                 </div>
