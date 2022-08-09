@@ -17,7 +17,7 @@
 		}
 	</style>
 </head>
-<body background="images/mercaBella_22.png" style="background-repeat: no-repeat;">
+<body background="" style="background-repeat: no-repeat;">
 	<header>
 		<div class="mt-3 container">
 			<div class="row">
@@ -125,7 +125,7 @@
 				<div class="col-md-6">
 					<div class="row">
 						<div class="card border-0 bg-warning">
-							<h3 class="card-title text-center">DRA. ROCIO MARQUEZ</h3>
+							<h3 class="card-title text-center display-6"><br><br><br>DRA. ROCIO MARQUEZ</h3>
 							<div class="card-body">
 								<p style="text-align: justify;">
 									Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Dolorum nesciunt dolore quod incidunt voluptatibus, consequatur repellat aspernatur distinctio officia alias a sunt at sapiente necessitatibus sint, ducimus inventore, facilis. Harum quo necessitatibus itaque laudantium minus asperiores explicabo sunt nisi odit molestiae quod, sit possimus modi molestias adipisci dolore. Numquam minima optio officia, explicabo maiores. Nesciunt quasi ullam ducimus dolores facilis.
@@ -136,13 +136,15 @@
 								<p style="text-align: justify;">
 									Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis doloremque debitis nemo id minima inventore est neque quisquam repellat repellendus soluta, odio. Alias laudantium consequatur esse tempora animi, vel hic ad illum dignissimos dicta eaque nam odio vero aut, voluptatem sint, quod sapiente harum debitis. A natus, amet. Esse, tempora!
 								</p>
+								<p style="text-align: justify;">Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Blanditiis, voluptates totam. Atque, tenetur sit consequuntur numquam laudantium aperiam et cupiditate eos mollitia, odio unde in eum officiis culpa. Voluptates perspiciatis perferendis, deleniti eveniet odio beatae reprehenderit sunt quibusdam fugit enim architecto asperiores nulla aperiam voluptatem recusandae doloribus dolore obcaecati quia!<br><br><br><br></p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="row">
+					<div class="row" style="background-image: url('images/Contacto_03.png'); background-repeat: no-repeat; background-position: right;">
 						<div class="col-md-6 mx-auto">
+							<br><br><br><br><br><br>
 							<div id="carousel-3">
 								<div>
 									<img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="300px" style="border: none;">
@@ -162,7 +164,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="row">
+					<div class="row mt-3 mb-3">
 						<button id="btn-slick-3" class="btn bg-light text-center" style="color: orange; font-size: 12px; background-color: Transparent; border: none;">
 							<i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i>
 						</button>

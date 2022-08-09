@@ -129,51 +129,53 @@
 
     <section class="section">
         <div class="container">
-            <div class="row bg-warning mt-5 mb-5">  
-                <div class="col">
-                    <div class="row mt-3 mb-3 text-center">
-                        <p class="text-center" style="font-size: 22px;">20% DE DESCUENTO HIDROFACIAL DURANTE TODO EL MES DE JUNIO</p>
+            <div style="background-image: url('images/Contacto_03.png'); background-repeat: no-repeat; background-position: right;"> 
+                <div class="row bg-warning mt-5 mb-5">  
+                    <div class="col">
+                        <div class="row mt-3 mb-3 text-center">
+                            <p class="text-center" style="font-size: 22px;">20% DE DESCUENTO HIDROFACIAL DURANTE TODO EL MES DE JUNIO</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="row mt-2 mb-2 background-image: url('images/Contacto_03.png')">
-                <div class="col">
-                    <p class="display-3 text-center">F A R M A C I A</p>
+                <div class="row mt-2 mb-2 background-image: url('images/Contacto_03.png')">
+                    <div class="col">
+                        <p class="display-3 text-center">F A R M A C I A</p>
+                    </div>
                 </div>
-            </div>
-            <div class="row mt-2 mb-2">
-                <div class="col-md-4 mx-auto" style="text-align: justify;">
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum debitis temporibus, distinctio at ad repellat voluptatum id enim porro magnam, pariatur exercitationem reprehenderit! Fugiat, quidem, iste! Non vitae quod, quae.</p>
+                <div class="row mt-2 mb-2">
+                    <div class="col-md-4 mx-auto" style="text-align: justify;">
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum debitis temporibus, distinctio at ad repellat voluptatum id enim porro magnam, pariatur exercitationem reprehenderit! Fugiat, quidem, iste! Non vitae quod, quae.</p>
+                    </div>
                 </div>
-            </div>
-            <div class="row mt-5 mb-5">
-                <div class="col-md-5"><hr class="hr-1"></div>
-                <div class="col-md-2 mx-auto text-center">
-                    <img src="images/home_19.png" alt="" width="40px" height="20px">
+                <div class="row mt-5 mb-5">
+                    <div class="col-md-5"><hr class="hr-1"></div>
+                    <div class="col-md-2 mx-auto text-center">
+                        <img src="images/home_19.png" alt="" width="40px" height="20px">
+                    </div>
+                    <div class="col-md-5"><hr class="hr-1"></div>
                 </div>
-                <div class="col-md-5"><hr class="hr-1"></div>
-            </div>
-            <div class="row mt-5 mb-5 mx-auto text-center">
-                <div class="col mx-auto text-center">
-                    <nav>
-                        <div class="row mx-auto text-center">
-                            <div class="col-md-2 mx-auto">
-                                <h4><a href="#"><b>SKINCARE</b></a></h4>
+                <div class="row mt-5 mb-5 mx-auto text-center">
+                    <div class="col mx-auto text-center">
+                        <nav>
+                            <div class="row mx-auto text-center">
+                                <div class="col-md-2 mx-auto">
+                                    <h4><a href="#"><b>SKINCARE</b></a></h4>
+                                </div>
+                                <div class="col-md-2 mx-auto">
+                                    <h4><a href="#"><b>LOCIONES</b></a></h4>
+                                </div>
+                                <div class="col-md-2 mx-auto">
+                                    <h4><a href="#"><b>CREMAS</b></a></h4>
+                                </div>
+                                <div class="col-md-2 mx-auto">
+                                    <h4><a href="#"><b>PIEL</b></a></h4>
+                                </div>
+                                <div class="col-md-2 mx-auto">
+                                    <h4><a href="#"><b>SKINCARE</b></a></h4>
+                                </div>
                             </div>
-                            <div class="col-md-2 mx-auto">
-                                <h4><a href="#"><b>LOCIONES</b></a></h4>
-                            </div>
-                            <div class="col-md-2 mx-auto">
-                                <h4><a href="#"><b>CREMAS</b></a></h4>
-                            </div>
-                            <div class="col-md-2 mx-auto">
-                                <h4><a href="#"><b>PIEL</b></a></h4>
-                            </div>
-                            <div class="col-md-2 mx-auto">
-                                <h4><a href="#"><b>SKINCARE</b></a></h4>
-                            </div>
-                        </div>
-                    </nav>
+                        </nav>
+                    </div>
                 </div>
             </div>
             <div class="row mt-5 mb-5">
