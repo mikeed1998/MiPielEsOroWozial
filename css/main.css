@@ -44,7 +44,13 @@
 }
 
 .hr-black {
-    border: 2px solid black;
+    border: 3px solid black;
+    color: inherit;
+    opacity: 100%;
+}
+
+.hr-black-2 {
+    border: 5px solid black;
     color: inherit;
     opacity: 100%;
 }
@@ -131,4 +137,3 @@ p {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
-
