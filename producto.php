@@ -9,21 +9,21 @@
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
 	<link rel="stylesheet" href="css/main.css">
-    <style>
-        .slick-prev:before {
+    <style>        
+        .prev-1 {
             content: "O";
             background-color: black;
             color: black;
-            font-size: 50px;
-            border-radius: 100%;
+            font-size: 20px;
+            border-radius: 50%;
         }
 
-        .slick-next:before {
+        .next-1 {
             content: "O";
             background-color: black;
             color: black;
-            font-size: 50px;
-            border-radius: 100%;
+            font-size: 20px;
+            border-radius: 50%;
         }
     </style>    
 </head>
@@ -150,10 +150,15 @@
                 </div>
             </div>
             <div class="row mt-5 mb-5">
+                <div class="col-md-3 mx-auto">
+                    <dir class="prev-1">
+                        <
+                    </dir>
+                </div>
                 <div class="col-md-6 mx-auto">
                     <div id="carousel-5">
                         <div>
-                            <div class="card">
+                            <div class="card" style="margin: 0; padding: 0;">
                                 <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
                                 <div class="card-body bg-warning">
                                     <div class="row">
@@ -212,7 +217,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="card">
+                            <div class="card" style="margin: 0; padding: 0;">
                                 <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
                                 <div class="card-body bg-warning">
                                     <div class="row">
@@ -271,7 +276,7 @@
                             </div>
                         </div>
                         <div>
-                            <div class="card">
+                            <div class="card" style="margin: 0; padding: 0;">
                                 <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
                                 <div class="card-body bg-warning">
                                     <div class="row">
@@ -330,6 +335,11 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="col-md-3">
+                    <dir class="next-1">
+                        >
+                    </dir>
                 </div>
             </div>
         </div>
@@ -903,14 +913,16 @@
         $(document).ready(function() {
             $('#carousel-5').slick({
                 slidesToShow: 1,
-                slidesToScroll: 1
+                slidesToScroll: 1,
+                prevArrow: $('.prev-1'),
+                nextArrow: $('.next-1')
             });
 
             $('#carousel-6').slick({
                 slidesToShow: 4,
                 slidesToScroll: 1,
                 prevArrow: null,
-                nextArrow: '#btn-slick-6'
+                
             });
         });
     </script>
