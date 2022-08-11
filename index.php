@@ -183,8 +183,7 @@
 				</div>
 			</div>
 			<div class="col-md-6 mx-auto">
-				<div class="card">
-					<div class="card bg-warning">
+				<div class="card bg-warning">
   					<div class="card-body">
 					    <h5 class="card-title">!CUIDATE DEL SOL!</h5>
     					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, veritatis placeat doloremque? Ad, magni recusandae quibusdam quidem, laudantium totam sapiente ea nisi tempore eligendi maxime accusantium odit? Repudiandae amet, animi?
@@ -196,17 +195,19 @@
 		</div>
 	</div>
 
-	<div class="mt-5 mb-5 mx-auto container">
-		<div class="row">
+	<div class="mx-auto container">
+		<div class="row mb-5" style="background-image: url('images/Contacto_03.png'); background-repeat: no-repeat; background-size: 500px; background-position: right top;">
 			<div class="col-md-6 text-center mx-auto">
-					<img src="images/user.png" width="70%" height="70%" class="rounded-circle rounded-3" alt="">
-					<img src="images/home_15.png" width="30%" height="20%">
+				<br><br><br><br>
+				<img src="images/user.png" width="70%" height="70%" class="rounded-circle rounded-3" alt="">
+				<img src="images/home_15.png" width="30%" height="20%">
 			</div>
 			<div class="col-md-6 mx-auto">
+				<br><br><br><br><br><br><br><br><br><br><br><br><br>
 				<p class="card-title display-5" style="color: orange;">DERMATOLOGA</p>
-    				<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ipsum commodi ex cupiditate libero, totam inventore itaque est deleniti temporibus. Repellendus perferendis eaque quibusdam, voluptate, delectus veniam praesentium non molestias.</p>
-    				<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero rem unde sunt quas dignissimos minima neque quos, nostrum non nobis.</p>
-    				<a href="#" class="btn btn-warning" style="border-radius: 2em; width: 160px;">VER MAS</a>
+    			<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ipsum commodi ex cupiditate libero, totam inventore itaque est deleniti temporibus. Repellendus perferendis eaque quibusdam, voluptate, delectus veniam praesentium non molestias.</p>
+    			<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero rem unde sunt quas dignissimos minima neque quos, nostrum non nobis.</p>
+    			<a href="#" class="btn btn-warning" style="border-radius: 2em; width: 160px;">VER MAS</a>
 			</div>
 		</div>
 	</div>
@@ -254,8 +255,8 @@
     												<a href="#" class="btn btn-outline-link">
     													<div class="container mx-auto text-center">
     														<div class="row text-center">
-    															<div class="col">
-    																<img src="images/home_06_01.png" alt="" style="height: 50px; width: 50px;">
+    															<div class="col-md-7 mx-auto">
+    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
     															</div>
     														</div>
     														<div class="row">
@@ -264,7 +265,7 @@
     															</div>
     														</div>
     														<div class="row">
-    															<div class="col">
+    															<div class="col-md-12 mx-auto">
     																VER DETALLE	
     															</div>
     														</div>
@@ -284,12 +285,12 @@
 											</div>
 										</div>
 										<div class="row">
-											<div class="col">
+											<div class="col-md-6 mx-auto text-end">
 												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
 													$700.00
 												</div>
 											</div>
-											<div class="col">
+											<div class="col-md-6 mx-auto text-start">
 												$300.00
 											</div>
 										</div>
@@ -305,13 +306,13 @@
 									<img src="images/home_23.png" alt="" class="img-fluid">
 									<div class="overlay bg-warning">
 										<div class="textX">
-											<div class="container mx-auto">
+											<div class="container">
     											<div class="row">
     												<a href="#" class="btn btn-outline-link">
     													<div class="container mx-auto text-center">
     														<div class="row text-center">
-    															<div class="col">
-    																<img src="images/home_06_01.png" alt="" style="height: 50px; width: 50px;">
+    															<div class="col-md-7 mx-auto">
+    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
     															</div>
     														</div>
     														<div class="row">
@@ -320,7 +321,7 @@
     															</div>
     														</div>
     														<div class="row">
-    															<div class="col">
+    															<div class="col-md-12 mx-auto">
     																VER DETALLE	
     															</div>
     														</div>
@@ -340,12 +341,12 @@
 											</div>
 										</div>
 										<div class="row">
-											<div class="col">
+											<div class="col-md-6 mx-auto text-end">
 												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
 													$700.00
 												</div>
 											</div>
-											<div class="col">
+											<div class="col-md-6 mx-auto text-start">
 												$300.00
 											</div>
 										</div>
@@ -361,13 +362,13 @@
 									<img src="images/home_23.png" alt="" class="img-fluid">
 									<div class="overlay bg-warning">
 										<div class="textX">
-											<div class="container mx-auto">
+											<div class="container">
     											<div class="row">
     												<a href="#" class="btn btn-outline-link">
     													<div class="container mx-auto text-center">
     														<div class="row text-center">
-    															<div class="col">
-    																<img src="images/home_06_01.png" alt="" style="height: 50px; width: 50px;">
+    															<div class="col-md-7 mx-auto">
+    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
     															</div>
     														</div>
     														<div class="row">
@@ -376,11 +377,11 @@
     															</div>
     														</div>
     														<div class="row">
-    															<div class="col">
+    															<div class="col-md-12 mx-auto">
     																VER DETALLE	
     															</div>
     														</div>
-    													</div>
+    													</div>	
     												</a>
     											</div>
     										</div>
@@ -396,12 +397,12 @@
 											</div>
 										</div>
 										<div class="row">
-											<div class="col">
+											<div class="col-md-6 mx-auto text-end">
 												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
 													$700.00
 												</div>
 											</div>
-											<div class="col">
+											<div class="col-md-6 mx-auto text-start">
 												$300.00
 											</div>
 										</div>
@@ -417,13 +418,13 @@
 									<img src="images/home_23.png" alt="" class="img-fluid">
 									<div class="overlay bg-warning">
 										<div class="textX">
-											<div class="container mx-auto">
+											<div class="container">
     											<div class="row">
     												<a href="#" class="btn btn-outline-link">
     													<div class="container mx-auto text-center">
     														<div class="row text-center">
-    															<div class="col">
-    																<img src="images/home_06_01.png" alt="" style="height: 50px; width: 50px;">
+    															<div class="col-md-7 mx-auto">
+    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
     															</div>
     														</div>
     														<div class="row">
@@ -432,11 +433,11 @@
     															</div>
     														</div>
     														<div class="row">
-    															<div class="col">
+    															<div class="col-md-12 mx-auto">
     																VER DETALLE	
     															</div>
     														</div>
-    													</div>
+    													</div>	
     												</a>
     											</div>
     										</div>
@@ -452,12 +453,12 @@
 											</div>
 										</div>
 										<div class="row">
-											<div class="col">
+											<div class="col-md-6 mx-auto text-end">
 												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
 													$700.00
 												</div>
 											</div>
-											<div class="col">
+											<div class="col-md-6 mx-auto text-start">
 												$300.00
 											</div>
 										</div>
@@ -473,13 +474,13 @@
 									<img src="images/home_23.png" alt="" class="img-fluid">
 									<div class="overlay bg-warning">
 										<div class="textX">
-											<div class="container mx-auto">
+											<div class="container">
     											<div class="row">
     												<a href="#" class="btn btn-outline-link">
     													<div class="container mx-auto text-center">
     														<div class="row text-center">
-    															<div class="col">
-    																<img src="images/home_06_01.png" alt="" style="height: 50px; width: 50px;">
+    															<div class="col-md-7 mx-auto">
+    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
     															</div>
     														</div>
     														<div class="row">
@@ -488,11 +489,11 @@
     															</div>
     														</div>
     														<div class="row">
-    															<div class="col">
+    															<div class="col-md-12 mx-auto">
     																VER DETALLE	
     															</div>
     														</div>
-    													</div>
+    													</div>	
     												</a>
     											</div>
     										</div>
@@ -508,12 +509,12 @@
 											</div>
 										</div>
 										<div class="row">
-											<div class="col">
+											<div class="col-md-6 mx-auto text-end">
 												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
 													$700.00
 												</div>
 											</div>
-											<div class="col">
+											<div class="col-md-6 mx-auto text-start">
 												$300.00
 											</div>
 										</div>
@@ -542,91 +543,91 @@
 	</div>
 
 	<footer>
-	<div class="container mt-5">
-		<div class="row mt-2 mb-3">
-			<div class="col-md-5"><hr class="hr-1"></div>
-			<div class="col-md-2 mx-auto text-center">
-				<img src="images/home_19.png" alt="" width="40px" height="20px">
+		<div class="container mt-5">
+			<div class="row mt-2 mb-3">
+				<div class="col-md-5"><hr class="hr-1"></div>
+				<div class="col-md-2 mx-auto text-center">
+					<img src="images/home_19.png" alt="" width="40px" height="20px">
+				</div>
+				<div class="col-md-5"><hr class="hr-1"></div>
 			</div>
-			<div class="col-md-5"><hr class="hr-1"></div>
-		</div>
-		<div class="row">
-			<div class="col">
-				<div class="row mt-3">
-					<div class="col-md-4 text-right">
-						<div class="row">
-							<div class="col">
-								<h6 class="text-center"><b>NAVEGACION</b></h6>
+			<div class="row">
+				<div class="col">
+					<div class="row mt-3">
+						<div class="col-md-4 text-right">
+							<div class="row">
+								<div class="col">
+									<h6 class="text-center"><b>NAVEGACION</b></h6>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col">
+									<p><hr class="hr-2"></p>
+								</div>
+							</div>
+							<div class="row">
+								<p><a href="#" style="text-decoration: none; color: black;">HOME</a></p>
+								<p><a href="#" style="text-decoration: none; color: black;">SERVICIOS</a></p>
+								<p><a href="#" style="text-decoration: none; color: black;">DRA. ROCIO M.</a></p>
+								<p><a href="#" style="text-decoration: none; color: black;">TIENDA</a></p>
+								<p><a href="#" style="text-decoration: none; color: black;">PROMOCIONES</a></p>
 							</div>
 						</div>
-						<div class="row">
-							<div class="col">
-								<p><hr class="hr-2"></p>
+						<div class="col-md-4 text-right">
+							<div class="row">
+								<h6 class="text-center"><b>AYUDA</b></h6>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<hr class="hr-2">
+								</div>
+							</div>
+							<div class="row">
+								<p><a href="#" style="text-decoration: none; color: black;">FAQ</a></p>
+								<p><a href="#" style="text-decoration: none; color: black;">AVISO DE PRIVACIDAD</a></p>
+								<p><a href="#" style="text-decoration: none; color: black;">TERMINOS Y CONDICIONES</a></p>
+								<p><a href="#" style="text-decoration: none; color: black;">POLITICAS DE ENVIO</a></p>
 							</div>
 						</div>
-						<div class="row">
-							<p><a href="#" style="text-decoration: none; color: black;">HOME</a></p>
-							<p><a href="#" style="text-decoration: none; color: black;">SERVICIOS</a></p>
-							<p><a href="#" style="text-decoration: none; color: black;">DRA. ROCIO M.</a></p>
-							<p><a href="#" style="text-decoration: none; color: black;">TIENDA</a></p>
-							<p><a href="#" style="text-decoration: none; color: black;">PROMOCIONES</a></p>
+						<div class="col-md-4 text-right">
+							<div class="row">
+								<h6 class="text-center"><b>SOCIAL</b></h6>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<hr class="hr-2">
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-7">
+									<p><a href="#" style="text-decoration: none; color: black;">CONTACTO</a></p>
+									<p><a href="#" style="text-decoration: none; color: black;">NOTICIAS</a></p>
+									<p><a href="#" style="text-decoration: none; color: black;">MI CUENTA</a></p>
+									<p><a href="#" style="text-decoration: none; color: black;">FACEBOOK</a></p>
+									<p><a href="#" style="text-decoration: none; color: black;">INSTAGRAM</a></p>
+								</div>
+								<div class="col-md-5">
+									<img src="images/home_27.png" alt="">
+									<img src="images/home_29.png" alt="">
+								</div>
+							</div>
 						</div>
 					</div>
-					<div class="col-md-4 text-right">
-						<div class="row">
-							<h6 class="text-center"><b>AYUDA</b></h6>
-						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<hr class="hr-2">
-							</div>
-						</div>
-						<div class="row">
-							<p><a href="#" style="text-decoration: none; color: black;">FAQ</a></p>
-							<p><a href="#" style="text-decoration: none; color: black;">AVISO DE PRIVACIDAD</a></p>
-							<p><a href="#" style="text-decoration: none; color: black;">TERMINOS Y CONDICIONES</a></p>
-							<p><a href="#" style="text-decoration: none; color: black;">POLITICAS DE ENVIO</a></p>
+					<div class="row mt-2">
+						<div class="col mt-1 mb-1 bg-warning text-center">
+							<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
+							<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-instagram"></i></a></h3>
+							<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-facebook-f"></i></a></h3>
+							<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
 						</div>
 					</div>
-					<div class="col-md-4 text-right">
-						<div class="row">
-							<h6 class="text-center"><b>SOCIAL</b></h6>
+					<div class="row">
+						<div class="col text-center">
+							<small>TODOS LOS DERECHOS RESERVADOS MI PIEL ES ORO 2021 DISEÑO PARA WOZIAL MARKETING LOVERS</small>
 						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<hr class="hr-2">
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-7">
-								<p><a href="#" style="text-decoration: none; color: black;">CONTACTO</a></p>
-								<p><a href="#" style="text-decoration: none; color: black;">NOTICIAS</a></p>
-								<p><a href="#" style="text-decoration: none; color: black;">MI CUENTA</a></p>
-								<p><a href="#" style="text-decoration: none; color: black;">FACEBOOK</a></p>
-								<p><a href="#" style="text-decoration: none; color: black;">INSTAGRAM</a></p>
-							</div>
-							<div class="col-md-5">
-								<img src="images/home_27.png" alt="">
-								<img src="images/home_29.png" alt="">
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row mt-2">
-					<div class="col mt-1 mb-1 bg-warning text-center">
-						<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
-						<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-instagram"></i></a></h3>
-						<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-facebook-f"></i></a></h3>
-						<h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col text-center">
-						<small>TODOS LOS DERECHOS RESERVADOS MI PIEL ES ORO 2021 DISEÑO PARA WOZIAL MARKETING LOVERS</small>
 					</div>
 				</div>
 			</div>
-		</div>
 		</div>
 	</footer>
 
