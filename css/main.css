@@ -137,3 +137,7 @@ p {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
+
+input[placeholder], [placeholder], *[placeholder] {
+    color: red !important;
+}
