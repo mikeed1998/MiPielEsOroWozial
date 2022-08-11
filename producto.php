@@ -14,7 +14,7 @@
             content: "O";
             background-color: black;
             color: black;
-            font-size: 20px;
+            font-size: 30px;
             border-radius: 50%;
         }
 
@@ -22,7 +22,7 @@
             content: "O";
             background-color: black;
             color: black;
-            font-size: 20px;
+            font-size: 30px;
             border-radius: 50%;
         }
     </style>    
@@ -151,184 +151,190 @@
             </div>
             <div class="row mt-5 mb-5">
                 <div class="col-md-3 mx-auto">
-                    <dir class="prev-1">
-                        <
-                    </dir>
+                    <div class="row h-100">
+                        <div class="position-relative">
+                            <div class="prev-1 position-absolute top-50 end-0">
+                                <<
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-6 mx-auto">
-                    <div id="carousel-5">
-                        <div>
-                            <div class="card" style="margin: 0; padding: 0;">
-                                <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
-                                <div class="card-body bg-warning">
-                                    <div class="row">
-                                        <div class="col text-center">
-                                            <p class="display-4">MARTIDERM</p>
+                    <div class="row h-100">
+                        <div id="carousel-5">
+                            <div>
+                                <div class="card" style="margin: 0; padding: 0;">
+                                    <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
+                                    <div class="card-body bg-warning">
+                                        <div class="row">
+                                            <div class="col text-center">
+                                                <p class="display-4">MARTIDERM</p>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-4 mx-auto">
-                                            <hr class="hr-black">
+                                        <div class="row">
+                                            <div class="col-md-4 mx-auto">
+                                                <hr class="hr-black">
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div class="col-md-11 mx-auto">
-                                            <p style="text-align: justify;">
-                                                Lorem, ipsum dolor sit amet consectetur, adipisicing elit. Officia neque voluptatem alias deserunt excepturi, blanditiis quam praesentium sed aliquam repellendus est labore sit ratione saepe nam repudiandae tempora in modi cumque. Voluptate 
-                                            </p>
+                                        <div class="row mt-2 mb-2">
+                                            <div class="col-md-11 mx-auto">
+                                                <p style="text-align: justify;">
+                                                    Lorem, ipsum dolor sit amet consectetur, adipisicing elit. Officia neque voluptatem alias deserunt excepturi, blanditiis quam praesentium sed aliquam repellendus est labore sit ratione saepe nam repudiandae tempora in modi cumque. Voluptate 
+                                                </p>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div>
-                                            <div class="col-md-7 mx-auto">
-                                                <div class="row">
-                                                    <div class="col-md-5 mx-auto">
-                                                        Precio
+                                        <div class="row mt-2 mb-2">
+                                            <div>
+                                                <div class="col-md-7 mx-auto">
+                                                    <div class="row">
+                                                        <div class="col-md-5 mx-auto">
+                                                            Precio
+                                                        </div>
+                                                        <div class="col-md-5 mx-auto">
+                                                            Cantidad
+                                                        </div>
                                                     </div>
-                                                    <div class="col-md-5 mx-auto">
-                                                        Cantidad
-                                                    </div>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-md-5 mx-auto">
-                                                        <select name="" id="" class="form-select bg-warning border border-dark">
-                                                            <option selected>$800.00</option>
-                                                            <option value="1">1</option>
-                                                            <option value="2">2</option>
-                                                            <option value="3">3</option>
-                                                            <option value="4">4</option>
-                                                        </select>
-                                                    </div>
-                                                    <div class="col-md-5 mx-auto">
-                                                        <input type="number" class="form-control bg-warning border border-dark">
+                                                    <div class="row">
+                                                        <div class="col-md-5 mx-auto">
+                                                            <select name="" id="" class="form-select bg-warning border border-dark">
+                                                                <option selected>$800.00</option>
+                                                                <option value="1">1</option>
+                                                                <option value="2">2</option>
+                                                                <option value="3">3</option>
+                                                                <option value="4">4</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class="col-md-5 mx-auto">
+                                                            <input type="number" class="form-control bg-warning border border-dark">
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div class="col-md-3 mx-auto">
-                                            <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" href="#">
-                                                Comprar
-                                            </a>
+                                        <div class="row mt-2 mb-2">
+                                            <div class="col-md-3 mx-auto">
+                                                <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" href="#">
+                                                    Comprar
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div>
-                            <div class="card" style="margin: 0; padding: 0;">
-                                <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
-                                <div class="card-body bg-warning">
-                                    <div class="row">
-                                        <div class="col text-center">
-                                            <p class="display-4">MARTIDERM 2</p>
+                            <div>
+                                <div class="card" style="margin: 0; padding: 0;">
+                                    <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
+                                    <div class="card-body bg-warning">
+                                        <div class="row">
+                                            <div class="col text-center">
+                                                <p class="display-4">MARTIDERM 2</p>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-4 mx-auto">
-                                            <hr class="hr-black">
+                                        <div class="row">
+                                            <div class="col-md-4 mx-auto">
+                                                <hr class="hr-black">
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div class="col-md-11 mx-auto">
-                                            <p style="text-align: justify;">
-                                                Lorem, ipsum dolor sit amet consectetur, adipisicing elit. Officia neque voluptatem alias deserunt excepturi, blanditiis quam praesentium sed aliquam repellendus est labore sit ratione saepe nam repudiandae tempora in modi cumque. Voluptate 
-                                            </p>
+                                        <div class="row mt-2 mb-2">
+                                            <div class="col-md-11 mx-auto">
+                                                <p style="text-align: justify;">
+                                                    Lorem, ipsum dolor sit amet consectetur, adipisicing elit. Officia neque voluptatem alias deserunt excepturi, blanditiis quam praesentium sed aliquam repellendus est labore sit ratione saepe nam repudiandae tempora in modi cumque. Voluptate 
+                                                </p>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div>
-                                            <div class="col-md-7 mx-auto">
-                                                <div class="row">
-                                                    <div class="col-md-5 mx-auto">
-                                                        Precio
+                                        <div class="row mt-2 mb-2">
+                                            <div>
+                                                <div class="col-md-7 mx-auto">
+                                                    <div class="row">
+                                                        <div class="col-md-5 mx-auto">
+                                                            Precio
+                                                        </div>
+                                                        <div class="col-md-5 mx-auto">
+                                                            Cantidad
+                                                        </div>
                                                     </div>
-                                                    <div class="col-md-5 mx-auto">
-                                                        Cantidad
-                                                    </div>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-md-5 mx-auto">
-                                                        <select name="" id="" class="form-select bg-warning border border-dark">
-                                                            <option selected>$800.00</option>
-                                                            <option value="1">1</option>
-                                                            <option value="2">2</option>
-                                                            <option value="3">3</option>
-                                                            <option value="4">4</option>
-                                                        </select>
-                                                    </div>
-                                                    <div class="col-md-5 mx-auto">
-                                                        <input type="number" class="form-control bg-warning border border-dark">
+                                                    <div class="row">
+                                                        <div class="col-md-5 mx-auto">
+                                                            <select name="" id="" class="form-select bg-warning border border-dark">
+                                                                <option selected>$800.00</option>
+                                                                <option value="1">1</option>
+                                                                <option value="2">2</option>
+                                                                <option value="3">3</option>
+                                                                <option value="4">4</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class="col-md-5 mx-auto">
+                                                            <input type="number" class="form-control bg-warning border border-dark">
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div class="col-md-3 mx-auto">
-                                            <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" href="#">
-                                                Comprar
-                                            </a>
+                                        <div class="row mt-2 mb-2">
+                                            <div class="col-md-3 mx-auto">
+                                                <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" href="#">
+                                                    Comprar
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div>
-                            <div class="card" style="margin: 0; padding: 0;">
-                                <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
-                                <div class="card-body bg-warning">
-                                    <div class="row">
-                                        <div class="col text-center">
-                                            <p class="display-4">MARTIDERM 3</p>
+                            <div>
+                                <div class="card" style="margin: 0; padding: 0;">
+                                    <img class="img-fluid" src="images/detalle-producto_05.png" alt="">
+                                    <div class="card-body bg-warning">
+                                        <div class="row">
+                                            <div class="col text-center">
+                                                <p class="display-4">MARTIDERM 3</p>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-4 mx-auto">
-                                            <hr class="hr-black">
+                                        <div class="row">
+                                            <div class="col-md-4 mx-auto">
+                                                <hr class="hr-black">
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div class="col-md-11 mx-auto">
-                                            <p style="text-align: justify;">
-                                                Lorem, ipsum dolor sit amet consectetur, adipisicing elit. Officia neque voluptatem alias deserunt excepturi, blanditiis quam praesentium sed aliquam repellendus est labore sit ratione saepe nam repudiandae tempora in modi cumque. Voluptate 
-                                            </p>
+                                        <div class="row mt-2 mb-2">
+                                            <div class="col-md-11 mx-auto">
+                                                <p style="text-align: justify;">
+                                                    Lorem, ipsum dolor sit amet consectetur, adipisicing elit. Officia neque voluptatem alias deserunt excepturi, blanditiis quam praesentium sed aliquam repellendus est labore sit ratione saepe nam repudiandae tempora in modi cumque. Voluptate 
+                                                </p>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div>
-                                            <div class="col-md-7 mx-auto">
-                                                <div class="row">
-                                                    <div class="col-md-5 mx-auto">
-                                                        Precio
+                                        <div class="row mt-2 mb-2">
+                                            <div>
+                                                <div class="col-md-7 mx-auto">
+                                                    <div class="row">
+                                                        <div class="col-md-5 mx-auto">
+                                                            Precio
+                                                        </div>
+                                                        <div class="col-md-5 mx-auto">
+                                                            Cantidad
+                                                        </div>
                                                     </div>
-                                                    <div class="col-md-5 mx-auto">
-                                                        Cantidad
-                                                    </div>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-md-5 mx-auto">
-                                                        <select name="" id="" class="form-select bg-warning border border-dark">
-                                                            <option selected>$800.00</option>
-                                                            <option value="1">1</option>
-                                                            <option value="2">2</option>
-                                                            <option value="3">3</option>
-                                                            <option value="4">4</option>
-                                                        </select>
-                                                    </div>
-                                                    <div class="col-md-5 mx-auto">
-                                                        <input type="number" class="form-control bg-warning border border-dark">
+                                                    <div class="row">
+                                                        <div class="col-md-5 mx-auto">
+                                                            <select name="" id="" class="form-select bg-warning border border-dark">
+                                                                <option selected>$800.00</option>
+                                                                <option value="1">1</option>
+                                                                <option value="2">2</option>
+                                                                <option value="3">3</option>
+                                                                <option value="4">4</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class="col-md-5 mx-auto">
+                                                            <input type="number" class="form-control bg-warning border border-dark">
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="row mt-2 mb-2">
-                                        <div class="col-md-3 mx-auto">
-                                            <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" href="#">
-                                                Comprar
-                                            </a>
+                                        <div class="row mt-2 mb-2">
+                                            <div class="col-md-3 mx-auto">
+                                                <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" href="#">
+                                                    Comprar
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -336,10 +342,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <dir class="next-1">
-                        >
-                    </dir>
+                <div class="col-md-3 mx-auto">
+                    <div class="row h-100">
+                        <div class="position-relative">
+                            <div class="prev-1 position-absolute top-50 start-0">
+                                <<
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
