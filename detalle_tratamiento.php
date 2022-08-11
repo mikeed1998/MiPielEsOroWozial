@@ -117,26 +117,26 @@
             <div class="bg-warning text-center" style="height: 400px;position: relative;">
                 <div class="container mx-auto" style="position: absolute; top: 10%; bottom: 5%; left: 5%;">
                     <div class="h2 py-3 text-center display-5">TRATAMIENTOS</div>
-                    <div class="row text-center bg-light">
+                    <div class="row text-center bg-white">
                         <div class="row mx-auto text-center border">
                             <div class="col-md-5">
                                 <div class="row mt-4">
                                     <div class="col-md-10 mx-auto text-center">
                                         <div id="carousel-4">
                                             <div>
-                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="300px" style="border: none;">
+                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="450px" style="border: none;">
                                             </div>
                                             <div>
-                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="300px" style="border: none;">
+                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="450px" style="border: none;">
                                             </div>
                                             <div>
-                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="300px" style="border: none;">
+                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="450px" style="border: none;">
                                             </div>
                                             <div>
-                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="300px" style="border: none;">
+                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="450px" style="border: none;">
                                             </div>
                                             <div>
-                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="300px" style="border: none;">
+                                                <img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="450px" style="border: none;">
                                             </div>
                                         </div>
                                     </div>
@@ -173,95 +173,9 @@
                                 </div>
                                 <div class="row mt-5 mb-5">
                                     <div class="col">
-                                        <a href="#" class="btn btn-light border" style="border-radius: 2em; width: 160px;">AGENDAR</a>
+                                        <a href="#" class="btn btn-white border border-dark" style="border-radius: 2em; width: 160px;">AGENDAR</a>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container mx-auto mt-5 p-2" style="position: absolute; left: 5%; height: 50px; top: 180%;">
-                <div class="row mt-2 mb-3">
-                    <div class="col-md-5"><hr class="hr-1"></div>
-                    <div class="col-md-2 mx-auto text-center">
-                        <img src="images/home_19.png" alt="" width="40px" height="20px">
-                    </div>
-                    <div class="col-md-5"><hr class="hr-1"></div>
-                </div>
-                <div class="row">
-                    <div class="col">
-                        <div class="row mt-3">
-                            <div class="col-md-4 text-right">
-                                <div class="row">
-                                    <div class="col">
-                                        <h6 class="text-center"><b>NAVEGACION</b></h6>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col">
-                                        <p><hr class="hr-2"></p>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <p><a href="#" style="text-decoration: none; color: black;">HOME</a></p>
-                                    <p><a href="#" style="text-decoration: none; color: black;">SERVICIOS</a></p>
-                                    <p><a href="#" style="text-decoration: none; color: black;">DRA. ROCIO M.</a></p>
-                                    <p><a href="#" style="text-decoration: none; color: black;">TIENDA</a></p>
-                                    <p><a href="#" style="text-decoration: none; color: black;">PROMOCIONES</a></p>
-                                </div>
-                            </div>
-                            <div class="col-md-4 text-right">
-                                <div class="row">
-                                    <h6 class="text-center"><b>AYUDA</b></h6>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <hr class="hr-2">
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <p><a href="#" style="text-decoration: none; color: black;">FAQ</a></p>
-                                    <p><a href="#" style="text-decoration: none; color: black;">AVISO DE PRIVACIDAD</a></p>
-                                    <p><a href="#" style="text-decoration: none; color: black;">TERMINOS Y CONDICIONES</a></p>
-                                    <p><a href="#" style="text-decoration: none; color: black;">POLITICAS DE ENVIO</a></p>
-                                </div>
-                            </div>
-                            <div class="col-md-4 text-right">
-                                <div class="row">
-                                    <h6 class="text-center"><b>SOCIAL</b></h6>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <hr class="hr-2">
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-7">
-                                        <p><a href="#" style="text-decoration: none; color: black;">CONTACTO</a></p>
-                                        <p><a href="#" style="text-decoration: none; color: black;">NOTICIAS</a></p>
-                                        <p><a href="#" style="text-decoration: none; color: black;">MI CUENTA</a></p>
-                                        <p><a href="#" style="text-decoration: none; color: black;">FACEBOOK</a></p>
-                                        <p><a href="#" style="text-decoration: none; color: black;">INSTAGRAM</a></p>
-                                    </div>
-                                    <div class="col-md-5">
-                                        <img src="images/home_27.png" alt="">
-                                        <img src="images/home_29.png" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row mt-2">
-                            <div class="col mt-1 mb-1 bg-warning text-center">
-                                <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
-                                <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-instagram"></i></a></h3>
-                                <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-facebook-f"></i></a></h3>
-                                <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col text-center">
-                                <small>TODOS LOS DERECHOS RESERVADOS MI PIEL ES ORO 2021 DISEÑO PARA WOZIAL MARKETING LOVERS</small>
                             </div>
                         </div>
                     </div>
@@ -269,6 +183,95 @@
             </div>
         </div>
     </section>
+
+    <footer>
+        <div class="container mx-auto mt-5 p-2" style="position: absolute; left: 5%; height: 50px; top: 120%;">
+            <div class="row mt-2 mb-3">
+                <div class="col-md-5"><hr class="hr-1"></div>
+                <div class="col-md-2 mx-auto text-center">
+                    <img src="images/home_19.png" alt="" width="40px" height="20px">
+                </div>
+                <div class="col-md-5"><hr class="hr-1"></div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="row mt-3">
+                        <div class="col-md-4 text-right">
+                            <div class="row">
+                                <div class="col">
+                                    <h6 class="text-center"><b>NAVEGACION</b></h6>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <p><hr class="hr-2"></p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <p><a href="#" style="text-decoration: none; color: black;">HOME</a></p>
+                                <p><a href="#" style="text-decoration: none; color: black;">SERVICIOS</a></p>
+                                <p><a href="#" style="text-decoration: none; color: black;">DRA. ROCIO M.</a></p>
+                                <p><a href="#" style="text-decoration: none; color: black;">TIENDA</a></p>
+                                <p><a href="#" style="text-decoration: none; color: black;">PROMOCIONES</a></p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-right">
+                            <div class="row">
+                                <h6 class="text-center"><b>AYUDA</b></h6>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <hr class="hr-2">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <p><a href="#" style="text-decoration: none; color: black;">FAQ</a></p>
+                                <p><a href="#" style="text-decoration: none; color: black;">AVISO DE PRIVACIDAD</a></p>
+                                <p><a href="#" style="text-decoration: none; color: black;">TERMINOS Y CONDICIONES</a></p>
+                                <p><a href="#" style="text-decoration: none; color: black;">POLITICAS DE ENVIO</a></p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-right">
+                            <div class="row">
+                                <h6 class="text-center"><b>SOCIAL</b></h6>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <hr class="hr-2">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <p><a href="#" style="text-decoration: none; color: black;">CONTACTO</a></p>
+                                    <p><a href="#" style="text-decoration: none; color: black;">NOTICIAS</a></p>
+                                    <p><a href="#" style="text-decoration: none; color: black;">MI CUENTA</a></p>
+                                    <p><a href="#" style="text-decoration: none; color: black;">FACEBOOK</a></p>
+                                    <p><a href="#" style="text-decoration: none; color: black;">INSTAGRAM</a></p>
+                                </div>
+                                <div class="col-md-5">
+                                    <img src="images/home_27.png" alt="">
+                                    <img src="images/home_29.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col mt-1 mb-1 bg-warning text-center">
+                            <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
+                            <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-instagram"></i></a></h3>
+                            <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-facebook-f"></i></a></h3>
+                            <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-center">
+                            <small>TODOS LOS DERECHOS RESERVADOS MI PIEL ES ORO 2021 DISEÑO PARA WOZIAL MARKETING LOVERS</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     <script src="js/bootstrap.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>

@@ -142,7 +142,7 @@
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="row" style="background-image: url('images/Contacto_03.png'); background-repeat: no-repeat; background-position: right;">
+					<div class="row" style="background-image: url('images/Contacto_03.png'); background-repeat: no-repeat; background-size: 450px; background-position: right top;">
 						<div class="col-md-6 mx-auto">
 							<br><br><br><br><br><br>
 							<div id="carousel-3">

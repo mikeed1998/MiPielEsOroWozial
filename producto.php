@@ -187,14 +187,17 @@
                                             <div>
                                                 <div class="col-md-7 mx-auto">
                                                     <div class="row">
+                                                        <div class="col-md-1"></div>
                                                         <div class="col-md-5 mx-auto">
                                                             Precio
                                                         </div>
-                                                        <div class="col-md-5 mx-auto">
+                                                        <div class="col-md-4 mx-auto">
                                                             Cantidad
                                                         </div>
+                                                        <div class="col-md-2"></div>
                                                     </div>
                                                     <div class="row">
+                                                        <div class="col-md-1"></div>
                                                         <div class="col-md-5 mx-auto">
                                                             <select name="" id="" class="form-select bg-warning border border-dark">
                                                                 <option selected>$800.00</option>
@@ -204,16 +207,17 @@
                                                                 <option value="4">4</option>
                                                             </select>
                                                         </div>
-                                                        <div class="col-md-5 mx-auto">
+                                                        <div class="col-md-4 mx-auto">
                                                             <input type="number" class="form-control bg-warning border border-dark">
                                                         </div>
+                                                        <div class="col-md-2"></div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mt-2 mb-2">
-                                            <div class="col-md-3 mx-auto">
-                                                <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" href="#">
+                                        <div class="row mt-2 mb-2 mx-auto">
+                                            <div class="col-md-4 mx-auto">
+                                                <a class="btn btn-outline-link w-100 btn-light bg-warning border border-dark" style="border-radius: 2em;" href="#">
                                                     Comprar
                                                 </a>
                                             </div>
@@ -931,8 +935,7 @@
             $('#carousel-6').slick({
                 slidesToShow: 4,
                 slidesToScroll: 1,
-                prevArrow: null,
-                
+                nextArrow: $('#btn-slick-6')
             });
         });
     </script>
