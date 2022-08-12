@@ -10,10 +10,10 @@
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
 	<link rel="stylesheet" href="css/main.css">
 </head>
-<body background="images/mercaBella_22.png" style="background-repeat: no-repeat;">
+<body background="images/mercaBella_22.png" style="background-repeat: no-repeat; padding:0px; margin:0px;">
 	<header>
-		<div class="mt-3 container">
-			<div class="row">
+		<div class="mt-3 container border-0">
+			<div class="row"> 
 				<div class="col-md-4 mx-auto nounderline text-center">
 					<button type="button" class="btn text-center" style="text-decoration:none;" data-bs-toggle="modal" data-bs-target="#exampleModal">
 						<i class="fa-solid fa-bars"></i> MENU
