@@ -114,11 +114,12 @@
 
     <section>
         <div class="position-relative">
-            <div class="bg-warning text-center" style="height: 400px;position: relative;">
+            <div class="bg-warning text-center" style="height: 400px; position: relative;">
                 <div class="container mx-auto" style="position: absolute; top: 10%; bottom: 5%; left: 5%;">
                     <div class="h2 py-3 text-center display-5">TRATAMIENTOS</div>
                     <div class="row text-center bg-white">
                         <div class="row mx-auto text-center border">
+                            <div class="container"><div class="row">
                             <div class="col-md-5">
                                 <div class="row mt-4">
                                     <div class="col-md-10 mx-auto text-center">
@@ -177,6 +178,8 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                        </div>
                         </div>
                     </div>
                 </div>
