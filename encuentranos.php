@@ -10,7 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
 	<link rel="stylesheet" href="css/main.css">
 </head>
-<body background="images/mercaBella_22.png" style="background-repeat: no-repeat;">
+<body background="" style="background-repeat: no-repeat;">
 	<header>
 		<div class="mt-3 container-fluid">
 			<div class="row">

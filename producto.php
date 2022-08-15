@@ -27,7 +27,7 @@
         }
     </style>    
 </head>
-<body background="images/mercaBella_22.png" style="background-repeat: no-repeat;">
+<body background="" style="background-repeat: no-repeat;">
 	<header>
 		<div class="mt-3 container-fluid">
 			<div class="row">
