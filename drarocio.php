@@ -27,7 +27,7 @@
 					</button>
 					<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   						<div class="modal-dialog modal-fullscreen">
-  							<div class="container mx-auto">	
+  							<div class="container-fluid mx-auto">	
     							<div class="modal-content" style="background-image: url(images/home_19_w.png);">
       								<div class="modal-body" style="background-color: #DAC142; background-image: url(images/flor_bg.png); background-size: contain; background-repeat: no-repeat; background-position: center;">
         								<div class="row mt-1 md-2 text-center mx-auto">
