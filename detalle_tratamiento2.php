@@ -263,7 +263,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                     <div class="row mt-2">
                         <div class="col mt-1 mb-1 bg-warning text-center">
                             <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
