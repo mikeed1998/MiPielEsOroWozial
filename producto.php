@@ -9,7 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
 	<link rel="stylesheet" href="css/main.css">
-    <style>        
+    <style>
         .prev-1 {
             content: "O";
             background-color: black;
@@ -25,9 +25,9 @@
             font-size: 30px;
             border-radius: 50%;
         }
-    </style>    
+    </style>
 </head>
-<body background="" style="background-repeat: no-repeat;">
+<body>
 	<header>
 		<div class="mt-3 container-fluid">
 			<div class="row">

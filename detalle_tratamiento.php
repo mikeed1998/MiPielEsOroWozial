@@ -11,24 +11,25 @@
 	<link rel="stylesheet" href="css/main.css">
 	<style>
 		.flex-container {
-		  display: flex;
-		  flex-wrap: wrap;
-		  flex-direction: row;
+		    display: flex;
+		    flex-wrap: wrap;
+		    flex-direction: row;
 		}
 
 		.flex-container > div.elem {
-		  background-color: #f1f1f1;
-		  width: 25%;
-		  margin: 20px;
-		  text-align: center;
-		  line-height: 75px;
-		  font-size: 30px;
+		    background-color: #f1f1f1;
+		    width: 25%;
+		    margin: 20px;
+		    text-align: center;
+		    line-height: 75px;
+		    font-size: 30px;
 		}
 
 		@media (max-width: 800px) {
- 		 .flex-container > div {
-    		flex: 100%;
-  		}
+		    .flex-container > div {
+		        flex: 100%; /*Hacer de una columna las filas para dispositivos pequeños*/
+		    }
+		}
 	</style>
 </head>
 <body>

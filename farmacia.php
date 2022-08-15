@@ -25,7 +25,7 @@
         }
     </style>
 </head>
-<body background="" style="background-repeat: no-repeat;">
+<body>
 	<header>
 		<div class="mt-3 container-fluid">
 			<div class="row">
