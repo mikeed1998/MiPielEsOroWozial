@@ -8,24 +8,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
-	<link rel="stylesheet" href="css/main.css">
-    <style>
-        .prev-1 {
-            content: "O";
-            background-color: black;
-            color: black;
-            font-size: 30px;
-            border-radius: 50%;
-        }
-
-        .next-1 {
-            content: "O";
-            background-color: black;
-            color: black;
-            font-size: 30px;
-            border-radius: 50%;
-        }
-    </style>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
 </head>
 <body>
 	<header>

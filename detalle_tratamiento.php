@@ -8,29 +8,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
-	<link rel="stylesheet" href="css/main.css">
-	<style>
-		.flex-container {
-		    display: flex;
-		    flex-wrap: wrap;
-		    flex-direction: row;
-		}
-
-		.flex-container > div.elem {
-		    background-color: #f1f1f1;
-		    width: 25%;
-		    margin: 20px;
-		    text-align: center;
-		    line-height: 75px;
-		    font-size: 30px;
-		}
-
-		@media (max-width: 800px) {
-		    .flex-container > div {
-		        flex: 100%; /*Hacer de una columna las filas para dispositivos pequeños*/
-		    }
-		}
-	</style>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
 </head>
 <body>
 	<header>

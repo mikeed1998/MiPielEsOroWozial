@@ -8,22 +8,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css"/>
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
-	<link rel="stylesheet" href="css/main.css">
-    <style>
-        nav a {
-            color: black;
-            background-color: white;
-            text-decoration: none;
-            border-bottom: transparent solid 5px;
-            padding-bottom: 5px;
-        }
-
-        nav a:hover {
-            color: black;
-            background-color: white;
-            border-bottom: orange solid 5px;
-        }
-    </style>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
 </head>
 <body>
 	<header>

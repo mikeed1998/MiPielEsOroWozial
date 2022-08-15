@@ -142,7 +142,7 @@ input[placeholder], [placeholder], *[placeholder] {
     color: red !important;
 }
 
-/* FARMACIA */
+/* ARCHIVO: FARMACIA */
 nav a {
     color: black;
     background-color: white;
@@ -157,7 +157,7 @@ nav a:hover {
     border-bottom: orange solid 5px;
 }
 
-/* PRODUCTO */
+/* ARCHIVO: PRODUCTO */
 .prev-1 {
     content: "O";
     background-color: black;
@@ -174,7 +174,7 @@ nav a:hover {
     border-radius: 50%;
 }
 
-/* TRATAMIENTOS Y DETALLE_TRATAMIENTO */
+/* ARCHVIOS: TRATAMIENTOS Y DETALLE_TRATAMIENTO*/
 
 .flex-container {
     display: flex;
@@ -196,3 +196,4 @@ nav a:hover {
         flex: 100%; /*Hacer de una columna las filas para dispositivos pequeños*/
     }
 }
+
