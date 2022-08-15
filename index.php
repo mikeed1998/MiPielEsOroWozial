@@ -10,33 +10,33 @@
 	<link rel="stylesheet" type="text/css" href="vendor/slick/slick-theme.css"/>
 	<link rel="stylesheet" href="css/main.css">
 </head>
-<body background="images/mercaBella_22.png" style="background-repeat: no-repeat; padding:0px; margin:0px;">
+<body>
 	<header>
-		<div class="mt-3 container border-0">
-			<div class="row"> 
+		<div class="mt-3 container-fluid" style="padding:0px; margin:0px; width: 100%;">
+			<div class="row">
 				<div class="col-md-4 mx-auto nounderline text-center">
 					<button type="button" class="btn text-center" style="text-decoration:none;" data-bs-toggle="modal" data-bs-target="#exampleModal">
 						<i class="fa-solid fa-bars"></i> MENU
 					</button>
-					<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+					<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true"> 
   						<div class="modal-dialog modal-fullscreen">
-  							<div class="container mx-auto">	
+  							<div class="container-fluid mx-auto" style="padding:0px; margin:0px;">	
     							<div class="modal-content" style="background-image: url(images/home_19_w.png);">
       								<div class="modal-body" style="background-color: #DAC142; background-image: url(images/flor_bg.png); background-size: contain; background-repeat: no-repeat; background-position: center;">
         								<div class="row mt-1 md-2 text-center mx-auto">
-      		  									<div class="col-md-5">
-      		  										<hr class="hr-white">
-      		  									</div>
-        										<div class="col-md-2">
-        											<img src="images/home_19_w.png" height="30px" width="50px" class="mx-auto" alt="">	
-        										</div>
-        										<div class="col-md-4">
-        											<hr class="hr-white">
-        										</div>
-        										<div class="col-md-1 text-end">
-        											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        										</div>
-        									</div>
+  		  									<div class="col-md-5">
+  		  										<hr class="hr-white">
+  		  									</div>
+    										<div class="col-md-2">
+    											<img src="images/home_19_w.png" height="30px" width="50px" class="mx-auto" alt="">	
+    										</div>
+    										<div class="col-md-4">
+    											<hr class="hr-white">
+    										</div>
+    										<div class="col-md-1 text-end">
+    											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+    										</div>
+        								</div>
         								<div class="row">
         									<div class="col-md-6 text-start">
         										<p style="margin: 0; padding: 0;">
@@ -112,438 +112,430 @@
 	</div>
 	</header>
 
-	<div class="mt-5 mb-5 container">
-		<div class="card bg-warning">
+	<section>
+		<div class="container-fluid">
 			<div class="row">
 				<div class="col mx-auto">
 					<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
-  						<div class="carousel-indicators">
-    						<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    						<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>	
-    						<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  						</div>
   						<div class="carousel-inner">
     						<div class="carousel-item active">
-     	 						<img src="images/home_23.png" width="100" height="300px" class="d-block w-40 mx-auto" alt="...">
+     							<img src="images/detalle-producto_05.png" width="100%" height="500px" class="d-block w-40 mx-auto" alt="...">
     						</div>
     						<div class="carousel-item">
-      							<img src="images/detalle-producto_05.png" width="1000px" height="300px" class="d-block w-40 mx-auto" alt="...">
+      							<img src="images/detalle-producto_05.png" width="100%" height="500px" class="d-block w-40 mx-auto" alt="...">
     						</div>
     						<div class="carousel-item">
-      							<img src="images/DetalleTratamieto_03.png" width="1000px" height="300px" class="d-block w-40 mx-auto" alt="...">
+      							<img src="images/detalle-producto_05.png" width="100%" height="500px" class="d-block w-40 mx-auto" alt="...">
     						</div>
-  						</div>
-  						<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-    						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    						<span class="visually-hidden">Previous</span>
-  						</button>
-  						<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-    						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-    						<span class="visually-hidden">Next</span>
-  						</button>
+  						</div>	
 					</div>
 				</div>
 			</div>
-			<div class="card-body text-center">
-				<p style="font-size: 22px;">20% DE DESCUENTO HIDROFACIAL DURANTE TODO EL MES DE JUNIO</p>
-			</div>
-		</div>
-		<div class="row mt-5 md-5 text-center">
-			<p style="color: orange;" class="display-4">MI PIEL ES ORO</p>
-		</div>
-	</div>
-
-	<div class="mt-5 container">
-		<div class="row">
-			<div class="col-md-6 mx-auto text-center">
-				<div id="carousel-1">
-					<div>
-						<img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="200px">
-					</div>
-					<div>
-						<img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="200px">
-					</div>
-					<div>
-						<img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="200px">
-					</div>
-					<div>
-						<img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="200px">
-					</div>
-					<div>
-						<img src="images/DetalleTratamieto_03.png" alt="" width="400px" height="200px">
-					</div>
-				</div>
-				<div>
-					<button id="btn-slick-1" class="btn bg-light text-center" style="color: orange; font-size: 12px; background-color: transparent;">
-						<i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i>
-					</button>
-				</div>
-				<div>
-					<h3 class="card-title" style="color: orange;">TRATAMIENTOS</h3><hr class="hr-1">
-				</div>
-			</div>
-			<div class="col-md-6 mx-auto">
-				<div class="card bg-warning">
-  					<div class="card-body">
-					    <h5 class="card-title">!CUIDATE DEL SOL!</h5>
-    					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, veritatis placeat doloremque? Ad, magni recusandae quibusdam quidem, laudantium totam sapiente ea nisi tempore eligendi maxime accusantium odit? Repudiandae amet, animi?
-    					Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis repellendus odio adipisci odit libero quas porro et laboriosam commodi cupiditate, iure autem minus quis facere doloribus possimus, optio aperiam voluptatibus.</p>
-    					<a href="#" class="btn btn-light" style="border-radius: 2em; width: 160px;">VER MAS</a>
-  					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="mx-auto container">
-		<div class="row mb-5" style="background-image: url('images/Contacto_03.png'); background-repeat: no-repeat; background-size: 500px; background-position: right top;">
-			<div class="col-md-6 text-center mx-auto">
-				<br><br><br><br>
-				<img src="images/user.png" width="70%" height="70%" class="rounded-circle rounded-3" alt="">
-				<img src="images/home_15.png" width="30%" height="20%">
-			</div>
-			<div class="col-md-6 mx-auto">
-				<br><br><br><br><br><br><br><br><br><br><br><br><br>
-				<p class="card-title display-5" style="color: orange;">DERMATOLOGA</p>
-    			<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ipsum commodi ex cupiditate libero, totam inventore itaque est deleniti temporibus. Repellendus perferendis eaque quibusdam, voluptate, delectus veniam praesentium non molestias.</p>
-    			<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero rem unde sunt quas dignissimos minima neque quos, nostrum non nobis.</p>
-    			<a href="#" class="btn btn-warning" style="border-radius: 2em; width: 160px;">VER MAS</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="mt-5 mx-auto container">
-		<div class="row">
-			<div class="col-md-4"></div>
-			<div class="col-md-4 text-center">
-				<p class="display-5">F A R M A C I A</p>
-				<p>Lorem ipsum, dolor, sit amet consectetur adipisicing elit. Maiores est, qui, cum sunt vitae aperiam mollitia ut eum esse necessitatibus!</p>
-			</div>
-			<div class="col-md-4"></div>
-		</div>
-	</div>
-
-	<div class="mt-1 mb-1 mx-auto container">
-		<div class="row">
-			<div class="col-md-5"><hr class="hr-1"></div>
-			<div class="mx-auto col-md-2 text-center"><img src="images/home_19.png" alt="" width="40px" height="20px"></div>
-			<div class="col-md-5"><hr class="hr-1"></div>
-		</div>
-	</div>
-
-	<div class="mt-1 mb-1 mx-auto container">
-		<div class="row">
-			<div class="col bg-warning text-center">
-				<h3>LO MAS NUEVO</h3>
-			</div>
-		</div>
-	</div>
-
-	<div class="mt-1 mb-5 mx-auto container">
-		<div class="row">
-			<div class="mt-3 md-3">
-				<div id="carousel-2">
-					<div>
-						<div class="container">
-							<div class="card border" style="margin: 0; padding: 0;">
-								<div class="containerX">
-									<img src="images/home_23.png" alt="" class="img-fluid">
-									<div class="overlay bg-warning">
-										<div class="textX">
-											<div class="container">
-    											<div class="row">
-    												<a href="#" class="btn btn-outline-link">
-    													<div class="container mx-auto text-center">
-    														<div class="row text-center">
-    															<div class="col-md-7 mx-auto">
-    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col">
-    																<hr class="hr-black">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col-md-12 mx-auto">
-    																VER DETALLE	
-    															</div>
-    														</div>
-    													</div>	
-    												</a>
-    											</div>
-    										</div>
-										</div>
-									</div>
-								</div>
-								<div class="card-body bg-warning">
-									<div class="container mx-auto text-center">
-										<div class="row text-center">
-											<div class="col">
-												FILORGA
-												<hr class="hr-black"> 
-											</div>
-										</div>
-										<div class="row">
-											<div class="col-md-6 mx-auto text-end">
-												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
-													$700.00
-												</div>
-											</div>
-											<div class="col-md-6 mx-auto text-start">
-												$300.00
-											</div>
-										</div>
-									</div>
-  								</div>
-							</div>
-						</div>
-					</div>
-					<div>
-						<div class="container">
-							<div class="card border" style="margin: 0; padding: 0;">
-								<div class="containerX">
-									<img src="images/home_23.png" alt="" class="img-fluid">
-									<div class="overlay bg-warning">
-										<div class="textX">
-											<div class="container">
-    											<div class="row">
-    												<a href="#" class="btn btn-outline-link">
-    													<div class="container mx-auto text-center">
-    														<div class="row text-center">
-    															<div class="col-md-7 mx-auto">
-    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col">
-    																<hr class="hr-black">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col-md-12 mx-auto">
-    																VER DETALLE	
-    															</div>
-    														</div>
-    													</div>	
-    												</a>
-    											</div>
-    										</div>
-										</div>
-									</div>
-								</div>
-								<div class="card-body bg-warning">
-									<div class="container mx-auto text-center">
-										<div class="row text-center">
-											<div class="col">
-												FILORGA 2
-												<hr class="hr-black"> 
-											</div>
-										</div>
-										<div class="row">
-											<div class="col-md-6 mx-auto text-end">
-												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
-													$700.00
-												</div>
-											</div>
-											<div class="col-md-6 mx-auto text-start">
-												$300.00
-											</div>
-										</div>
-									</div>
-  								</div>
-							</div>
-						</div>
-					</div>
-					<div>
-						<div class="container">
-							<div class="card border" style="margin: 0; padding: 0;">
-								<div class="containerX">
-									<img src="images/home_23.png" alt="" class="img-fluid">
-									<div class="overlay bg-warning">
-										<div class="textX">
-											<div class="container">
-    											<div class="row">
-    												<a href="#" class="btn btn-outline-link">
-    													<div class="container mx-auto text-center">
-    														<div class="row text-center">
-    															<div class="col-md-7 mx-auto">
-    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col">
-    																<hr class="hr-black">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col-md-12 mx-auto">
-    																VER DETALLE	
-    															</div>
-    														</div>
-    													</div>	
-    												</a>
-    											</div>
-    										</div>
-										</div>
-									</div>
-								</div>
-								<div class="card-body bg-warning">
-									<div class="container mx-auto text-center">
-										<div class="row text-center">
-											<div class="col">
-												FILORGA 3
-												<hr class="hr-black"> 
-											</div>
-										</div>
-										<div class="row">
-											<div class="col-md-6 mx-auto text-end">
-												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
-													$700.00
-												</div>
-											</div>
-											<div class="col-md-6 mx-auto text-start">
-												$300.00
-											</div>
-										</div>
-									</div>
-  								</div>
-							</div>
-						</div>
-					</div>
-					<div>
-						<div class="container">
-							<div class="card border" style="margin: 0; padding: 0;">
-								<div class="containerX">
-									<img src="images/home_23.png" alt="" class="img-fluid">
-									<div class="overlay bg-warning">
-										<div class="textX">
-											<div class="container">
-    											<div class="row">
-    												<a href="#" class="btn btn-outline-link">
-    													<div class="container mx-auto text-center">
-    														<div class="row text-center">
-    															<div class="col-md-7 mx-auto">
-    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col">
-    																<hr class="hr-black">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col-md-12 mx-auto">
-    																VER DETALLE	
-    															</div>
-    														</div>
-    													</div>	
-    												</a>
-    											</div>
-    										</div>
-										</div>
-									</div>
-								</div>
-								<div class="card-body bg-warning">
-									<div class="container mx-auto text-center">
-										<div class="row text-center">
-											<div class="col">
-												FILORGA 4
-												<hr class="hr-black"> 
-											</div>
-										</div>
-										<div class="row">
-											<div class="col-md-6 mx-auto text-end">
-												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
-													$700.00
-												</div>
-											</div>
-											<div class="col-md-6 mx-auto text-start">
-												$300.00
-											</div>
-										</div>
-									</div>
-  								</div>
-							</div>
-						</div>
-					</div>
-					<div>
-						<div class="container">
-							<div class="card border" style="margin: 0; padding: 0;">
-								<div class="containerX">
-									<img src="images/home_23.png" alt="" class="img-fluid">
-									<div class="overlay bg-warning">
-										<div class="textX">
-											<div class="container">
-    											<div class="row">
-    												<a href="#" class="btn btn-outline-link">
-    													<div class="container mx-auto text-center">
-    														<div class="row text-center">
-    															<div class="col-md-7 mx-auto">
-    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col">
-    																<hr class="hr-black">
-    															</div>
-    														</div>
-    														<div class="row">
-    															<div class="col-md-12 mx-auto">
-    																VER DETALLE	
-    															</div>
-    														</div>
-    													</div>	
-    												</a>
-    											</div>
-    										</div>
-										</div>
-									</div>
-								</div>
-								<div class="card-body bg-warning">
-									<div class="container mx-auto text-center">
-										<div class="row text-center">
-											<div class="col">
-												FILORGA 5
-												<hr class="hr-black"> 
-											</div>
-										</div>
-										<div class="row">
-											<div class="col-md-6 mx-auto text-end">
-												<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
-													$700.00
-												</div>
-											</div>
-											<div class="col-md-6 mx-auto text-start">
-												$300.00
-											</div>
-										</div>
-									</div>
-  								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-5 mb-2">
-			<div class="col">
-				<div class="mx-auto text-center">
-					<button id="btn-slick-2" class="btn bg-light text-center" style="color: orange; font-size: 12px; background-color: transparent;">
+			<div class="row bg-warning">
+				<div class="col text-center">
+					<button class="btn bg-warning" data-bs-target="#carouselExampleIndicators" data-bs-slide="next" style="color: white; font-size: 12px; background-color: transparent;">
 						<i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i>
 					</button>
 				</div>
 			</div>
-		</div>
-		<div class="row mt-5 mb-5">
-			<div class="col-md-4 mx-auto text-center">
-				<a href="#" class="btn btn-warning" style="border-radius: 2em; width: 200px;">TIENDA</a>
+			<div class="row mb-5 bg-warning">
+				<div class="col-md-8 mx-auto">
+					<p style="font-size: 22px;">20% DE DESCUENTO HIDROFACIAL DURANTE TODO EL MES DE JUNIO</p>
+				</div>
+			</div>
+			<div class="row mt-5 mb-5 text-center">
+				<div class="col-md-4 mx-auto">
+					<p style="color: orange;" class="display-5">MI PIEL ES ORO</p>
+				</div>
+			</div>
+			<div class="row mt-5 mb-5">
+				<div class="col-md-6 mx-auto text-center">
+					<div id="carousel-1">
+						<div>
+							<img src="images/DetalleTratamieto_03.png" class="img-fluid" alt="" width="400px" height="200px">
+						</div>
+						<div>
+							<img src="images/DetalleTratamieto_03.png" class="img-fluid" alt="" width="400px" height="200px">
+						</div>
+						<div>
+							<img src="images/DetalleTratamieto_03.png" class="img-fluid" alt="" width="400px" height="200px">
+						</div>
+						<div>
+							<img src="images/DetalleTratamieto_03.png" class="img-fluid" alt="" width="400px" height="200px">
+						</div>
+						<div>
+							<img src="images/DetalleTratamieto_03.png" class="img-fluid" alt="" width="400px" height="200px">
+						</div>
+					</div>
+					<div>
+						<button id="btn-slick-1" class="btn bg-light text-center" style="color: orange; font-size: 12px; background-color: transparent;">
+							<i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i>
+						</button>
+					</div>
+					<div>
+						<h3 class="card-title" style="color: orange;">TRATAMIENTOS</h3><hr class="hr-1">
+					</div>
+				</div>
+				<div class="col-md-6 mx-auto">
+					<div class="card bg-warning">
+	  					<div class="card-body">
+						    <h5 class="card-title mb-3">!CUIDATE DEL SOL!</h5>
+	    					<p class="card-text mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, veritatis placeat doloremque? Ad, magni recusandae quibusdam quidem, laudantium totam sapiente ea nisi tempore eligendi maxime accusantium odit? Repudiandae amet, animi?
+	    					Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis repellendus odio adipisci odit libero quas porro et laboriosam commodi cupiditate, iure autem minus quis facere doloribus possimus, optio aperiam voluptatibus.</p>
+	    					<a href="#" class="btn btn-light" style="border-radius: 2em; width: 160px;">VER MAS</a>
+	  					</div>
+					</div>
+				</div>
+				<div class="row mb-5" style="background-image: url('images/Contacto_03.png'); background-repeat: no-repeat; background-size: 500px; background-position: right top;">
+					<div class="col-md-6 text-center mx-auto">
+						<div class="row">
+							<div class="col-md-12 mx-auto">
+								<br><br><br>
+								<img src="images/user.png" width="75%" height="75%" class="rounded-circle rounded-3" alt="">
+							</div>
+							<div class="col-md-12">
+								<img src="images/home_15.png" width="40%" height="60%">	
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 mx-auto">
+						<div class="row">
+							<div class="col">
+								<br><br><br><br><br><br><br><br><br><br><br><br><br>
+								<p class="card-title display-5 mb-3" style="color: orange;">DERMATOLOGA</p>
+		    					<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ipsum commodi ex cupiditate libero, totam inventore itaque est deleniti temporibus. Repellendus perferendis eaque quibusdam, voluptate, delectus veniam praesentium non molestias.</p>
+		    					<p class="card-text mb-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero rem unde sunt quas dignissimos minima neque quos, nostrum non nobis.</p>
+		    					<a href="#" class="btn btn-warning mb-3" style="border-radius: 2em; width: 160px;">VER MAS</a>
+							</div>	
+						</div>
+					</div>
+				</div>
+				<div class="row mx-auto">
+					<div class="col-md-6 mx-auto">
+						<p class="display-3">F A R M A C I A</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 mx-auto">
+						<p>Lorem ipsum, dolor, sit amet consectetur adipisicing elit. Maiores est, qui, cum sunt vitae aperiam mollitia ut eum esse necessitatibus!</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-5"><hr class="hr-1"></div>
+					<div class="mx-auto col-md-2 text-center"><img src="images/home_19.png" alt="" width="40px" height="20px"></div>
+					<div class="col-md-5"><hr class="hr-1"></div>
+				</div>
+				<div class="row">
+					<div class="col bg-warning text-center">
+						<h3>LO MAS NUEVO</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-10 mt-3 md-3 mx-auto">
+						<div id="carousel-2">
+							<div>
+								<div class="container">
+									<div class="card border" style="margin: 0; padding: 0;">
+										<div class="containerX">
+											<img src="images/home_23.png" alt="" class="img-fluid">
+											<div class="overlay bg-warning">
+												<div class="textX">
+													<div class="container">
+		    											<div class="row">
+		    												<a href="#" class="btn btn-outline-link">
+		    													<div class="container mx-auto text-center">
+		    														<div class="row text-center">
+		    															<div class="col-md-7 mx-auto">
+		    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col">
+		    																<hr class="hr-black">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col-md-12 mx-auto">
+		    																VER DETALLE	
+		    															</div>
+		    														</div>
+		    													</div>	
+		    												</a>
+		    											</div>
+		    										</div>
+												</div>
+											</div>
+										</div>
+										<div class="card-body bg-warning">
+											<div class="container mx-auto text-center">
+												<div class="row text-center">
+													<div class="col">
+														FILORGA
+														<hr class="hr-black"> 
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-6 mx-auto text-end">
+														<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
+															$700.00
+														</div>
+													</div>
+													<div class="col-md-6 mx-auto text-start">
+														$300.00
+													</div>
+												</div>
+											</div>
+		  								</div>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div class="container">
+									<div class="card border" style="margin: 0; padding: 0;">
+										<div class="containerX">
+											<img src="images/home_23.png" alt="" class="img-fluid">
+											<div class="overlay bg-warning">
+												<div class="textX">
+													<div class="container">
+		    											<div class="row">
+		    												<a href="#" class="btn btn-outline-link">
+		    													<div class="container mx-auto text-center">
+		    														<div class="row text-center">
+		    															<div class="col-md-7 mx-auto">
+		    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col">
+		    																<hr class="hr-black">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col-md-12 mx-auto">
+		    																VER DETALLE	
+		    															</div>
+		    														</div>
+		    													</div>	
+		    												</a>
+		    											</div>
+		    										</div>
+												</div>
+											</div>
+										</div>
+										<div class="card-body bg-warning">
+											<div class="container mx-auto text-center">
+												<div class="row text-center">
+													<div class="col">
+														FILORGA
+														<hr class="hr-black"> 
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-6 mx-auto text-end">
+														<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
+															$700.00
+														</div>
+													</div>
+													<div class="col-md-6 mx-auto text-start">
+														$300.00
+													</div>
+												</div>
+											</div>
+		  								</div>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div class="container">
+									<div class="card border" style="margin: 0; padding: 0;">
+										<div class="containerX">
+											<img src="images/home_23.png" alt="" class="img-fluid">
+											<div class="overlay bg-warning">
+												<div class="textX">
+													<div class="container">
+		    											<div class="row">
+		    												<a href="#" class="btn btn-outline-link">
+		    													<div class="container mx-auto text-center">
+		    														<div class="row text-center">
+		    															<div class="col-md-7 mx-auto">
+		    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col">
+		    																<hr class="hr-black">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col-md-12 mx-auto">
+		    																VER DETALLE	
+		    															</div>
+		    														</div>
+		    													</div>	
+		    												</a>
+		    											</div>
+		    										</div>
+												</div>
+											</div>
+										</div>
+										<div class="card-body bg-warning">
+											<div class="container mx-auto text-center">
+												<div class="row text-center">
+													<div class="col">
+														FILORGA
+														<hr class="hr-black"> 
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-6 mx-auto text-end">
+														<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
+															$700.00
+														</div>
+													</div>
+													<div class="col-md-6 mx-auto text-start">
+														$300.00
+													</div>
+												</div>
+											</div>
+		  								</div>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div class="container">
+									<div class="card border" style="margin: 0; padding: 0;">
+										<div class="containerX">
+											<img src="images/home_23.png" alt="" class="img-fluid">
+											<div class="overlay bg-warning">
+												<div class="textX">
+													<div class="container">
+		    											<div class="row">
+		    												<a href="#" class="btn btn-outline-link">
+		    													<div class="container mx-auto text-center">
+		    														<div class="row text-center">
+		    															<div class="col-md-7 mx-auto">
+		    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col">
+		    																<hr class="hr-black">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col-md-12 mx-auto">
+		    																VER DETALLE	
+		    															</div>
+		    														</div>
+		    													</div>	
+		    												</a>
+		    											</div>
+		    										</div>
+												</div>
+											</div>
+										</div>
+										<div class="card-body bg-warning">
+											<div class="container mx-auto text-center">
+												<div class="row text-center">
+													<div class="col">
+														FILORGA
+														<hr class="hr-black"> 
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-6 mx-auto text-end">
+														<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
+															$700.00
+														</div>
+													</div>
+													<div class="col-md-6 mx-auto text-start">
+														$300.00
+													</div>
+												</div>
+											</div>
+		  								</div>
+									</div>
+								</div>
+							</div>
+							<div>
+								<div class="container">
+									<div class="card border" style="margin: 0; padding: 0;">
+										<div class="containerX">
+											<img src="images/home_23.png" alt="" class="img-fluid">
+											<div class="overlay bg-warning">
+												<div class="textX">
+													<div class="container">
+		    											<div class="row">
+		    												<a href="#" class="btn btn-outline-link">
+		    													<div class="container mx-auto text-center">
+		    														<div class="row text-center">
+		    															<div class="col-md-7 mx-auto">
+		    																<img src="images/home_06_01.png" class="img-fluid" alt="" style="height: 50px; width: 50px;">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col">
+		    																<hr class="hr-black">
+		    															</div>
+		    														</div>
+		    														<div class="row">
+		    															<div class="col-md-12 mx-auto">
+		    																VER DETALLE	
+		    															</div>
+		    														</div>
+		    													</div>	
+		    												</a>
+		    											</div>
+		    										</div>
+												</div>
+											</div>
+										</div>
+										<div class="card-body bg-warning">
+											<div class="container mx-auto text-center">
+												<div class="row text-center">
+													<div class="col">
+														FILORGA
+														<hr class="hr-black"> 
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-md-6 mx-auto text-end">
+														<div style="text-decoration-line: line-through; margin: 0; padding: 0;">
+															$700.00
+														</div>
+													</div>
+													<div class="col-md-6 mx-auto text-start">
+														$300.00
+													</div>
+												</div>
+											</div>
+		  								</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row mt-5 mb-2">
+					<div class="col">
+						<div class="mx-auto text-center">
+							<button id="btn-slick-2" class="btn bg-light text-center" style="color: orange; font-size: 12px; background-color: transparent;">
+								<i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i>
+							</button>
+						</div>
+					</div>
+				</div>
+				<div class="row mt-1 mb-5">
+					<div class="col-md-4 mx-auto text-center">
+						<a href="#" class="btn btn-warning" style="border-radius: 2em; width: 200px;">TIENDA</a>
+					</div>
+				</div>
 			</div>
 		</div>
-	</div>
+	</section>
 
 	<footer>
-		<div class="container mt-5">
+		<div class="container-fluid mt-5">
 			<div class="row mt-2 mb-3">
 				<div class="col-md-5"><hr class="hr-1"></div>
 				<div class="col-md-2 mx-auto text-center">
@@ -630,7 +622,7 @@
 			</div>
 		</div>
 	</footer>
-
+	
 	<script src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>	

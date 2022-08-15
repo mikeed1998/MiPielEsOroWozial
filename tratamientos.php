@@ -12,7 +12,7 @@
 </head>
 <body background="images/mercaBella_22.png" style="background-repeat: no-repeat;">
 	<header>
-		<div class="mt-3 container">
+		<div class="mt-3 container-fluid">
 			<div class="row">
 				<div class="col-md-4 mx-auto nounderline text-center">
 					<button type="button" class="btn text-center" style="text-decoration:none;" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -127,7 +127,7 @@
                     </div>
                 </div>
             </div>
-            <div class="container mx-auto" style="position: absolute; height: 50px; top: 250%; left: 5%;">
+            <div class="container-fluid mx-auto" style="position: absolute; height: 50px; top: 250%;">
                 <div class="row mt-5 mb-5">
                     <div class="col-md-2 mx-auto">
                         <nav aria-label="...">
@@ -156,7 +156,7 @@
     </section>
 
     <footer>
-        <div class="container mx-auto mt-5 p-2" style="position: absolute; left: 10%; height: 50px; top: 200%;">
+        <div class="container-fluid mx-auto mt-5 p-2" style="position: absolute; height: 50px; top: 200%;">
             <div class="row mt-2 mb-3">
                 <div class="col-md-5"><hr class="hr-1"></div>
                 <div class="col-md-2 mx-auto text-center">

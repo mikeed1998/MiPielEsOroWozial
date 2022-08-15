@@ -12,7 +12,7 @@
 </head>
 <body background="images/mercaBella_22.png" style="background-repeat: no-repeat;">
 	<header>
-		<div class="mt-3 container">
+		<div class="mt-3 container-fluid">
 			<div class="row">
 				<div class="col-md-4 mx-auto nounderline text-center">
 					<button type="button" class="btn text-center" style="text-decoration:none;" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -114,11 +114,12 @@
 
     <section>
         <div class="position-relative">
-            <div class="bg-warning text-center" style="height: 400px;position: relative;">
+            <div class="bg-warning text-center" style="height: 400px; position: relative;">
                 <div class="container mx-auto" style="position: absolute; top: 10%; bottom: 5%; left: 5%;">
                     <div class="h2 py-3 text-center display-5">TRATAMIENTOS</div>
                     <div class="row text-center bg-white">
                         <div class="row mx-auto text-center border">
+                            <div class="container"><div class="row">
                             <div class="col-md-5">
                                 <div class="row mt-4">
                                     <div class="col-md-10 mx-auto text-center">
@@ -178,6 +179,8 @@
                                 </div>
                             </div>
                         </div>
+                        </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -185,14 +188,20 @@
     </section>
 
     <footer>
-        <div class="container mx-auto mt-5 p-2" style="position: absolute; left: 5%; height: 50px; top: 120%;">
+        <div class="container-fluid mx-auto mt-5 p-2" style="position: absolute; height: 50px; top: 140%;">
+
             <div class="row mt-2 mb-3">
-                <div class="col-md-5"><hr class="hr-1"></div>
+                <div class="col-md-5">
+                    <hr class="hr-1">
+                </div>
                 <div class="col-md-2 mx-auto text-center">
                     <img src="images/home_19.png" alt="" width="40px" height="20px">
                 </div>
-                <div class="col-md-5"><hr class="hr-1"></div>
+                <div class="col-md-5">
+                    <hr class="hr-1">
+                </div>
             </div>
+            
             <div class="row">
                 <div class="col">
                     <div class="row mt-3">
@@ -254,7 +263,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                     <div class="row mt-2">
                         <div class="col mt-1 mb-1 bg-warning text-center">
                             <h3 style="display: inline;"><a href="#" style="text-decoration: none; color: black;"><i class="fa-brands fa-whatsapp"></i></a></h3>
